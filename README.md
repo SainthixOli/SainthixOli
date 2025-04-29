@@ -36,4 +36,4 @@ Se quiser trocar ideia ou acompanhar minha evolução, só me chamar:
 
 <!-- Linguagens mais usadas -->
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SainthixOli&layout=compact&theme=radical)
-![snake gif](https://github.com/SainthixOli/SainthixOli/blob/output/github-contribution-grid-snake.svg)
+
