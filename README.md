@@ -31,4 +31,9 @@ Se quiser trocar ideia ou acompanhar minha evolução, só me chamar:
 ---
 
 > "Começando do zero, mas com vontade de aprender e construir coisas reais."
->![Programando e Pensando](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ4eHFvOGh2bHRvODRkc3JwaGxjOGp5eWR5eXFrZGc5bjE5N2huZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
+<!-- Estatísticas do GitHub -->
+![Meus Stats](https://github-readme-stats.vercel.app/api?username=SainthixOli&show_icons=true&theme=radical)
+
+<!-- Linguagens mais usadas -->
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SainthixOli&layout=compact&theme=radical)
+![snake gif](https://github.com/SainthixOli/SainthixOli/blob/output/github-contribution-grid-snake.svg)
