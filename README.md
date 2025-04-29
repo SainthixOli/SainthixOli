@@ -16,6 +16,11 @@ Tenho interesse em seguir para a área de **segurança da informação**, ainda 
 
 Ainda não tenho projetos finalizados publicados, mas estou trabalhando em alguns códigos de estudo e testando ideias, que devem aparecer por aqui em breve!
 
+![Meus Stats](https://github-readme-stats.vercel.app/api?username=SainthixOli&show_icons=true&theme=radical)
+
+<!-- Linguagens mais usadas -->
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SainthixOli&layout=compact&theme=radical)
+
 ## 🧰 Tecnologias que estou estudando
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -32,10 +37,7 @@ Se quiser trocar ideia ou acompanhar minha evolução, só me chamar:
 
 > "Começando do zero, mas com vontade de aprender e construir coisas reais."
 <!-- Estatísticas do GitHub -->
-![Meus Stats](https://github-readme-stats.vercel.app/api?username=SainthixOli&show_icons=true&theme=radical)
 
-<!-- Linguagens mais usadas -->
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SainthixOli&layout=compact&theme=radical)
 
 ![snake gif](https://github.com/SainthixOli/SainthixOli/blob/output/github-contribution-grid-snake.svg)
 
