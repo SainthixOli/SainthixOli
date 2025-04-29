@@ -31,4 +31,4 @@ Se quiser trocar ideia ou acompanhar minha evolução, só me chamar:
 ---
 
 > "Começando do zero, mas com vontade de aprender e construir coisas reais."
-> ![Jeroo Java](https://media.tenor.com/WAOgvFBeoXIAAAAC/jeroo-konacord.gif)
+>![Programando e Pensando](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ4eHFvOGh2bHRvODRkc3JwaGxjOGp5eWR5eXFrZGc5bjE5N2huZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
