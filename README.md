@@ -31,3 +31,4 @@ Se quiser trocar ideia ou acompanhar minha evolução, só me chamar:
 ---
 
 > "Começando do zero, mas com vontade de aprender e construir coisas reais."
+> ![Programando com estilo](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
