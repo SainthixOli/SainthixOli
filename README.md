@@ -71,7 +71,7 @@ Uma simulação de rede corporativa segura utilizando **Cisco Packet Tracer**. E
 
 ---
 
-> "Começando do zero, mas com vontade de aprender e construir coisas reais."
+> "Iniciando do zero, mas com vontade de aprender e construir coisas reais."
 <div align="center">
     <img       src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFucnByaHh3NGppazd6OGRyZTM1OWYxMDB6aWl3amcxaGxibTc5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF de programação" width="350">
   </div>
