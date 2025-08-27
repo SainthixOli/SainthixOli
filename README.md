@@ -74,7 +74,7 @@ Uma simulação de rede corporativa segura utilizando **Cisco Packet Tracer**. E
   <strong>E-mail:</strong> oliverarthursouzapinheiro@gmail.com
   <br><br>
   <a href="https://open.spotify.com/intl-pt/track/11pEKMLmavDu8fxOB5QjbQ?si=f66472b27f8e41360">
-    <img src="https://spotify-github-profile.vercel.app/api/playing?user_id=31f5z6b7z2r5y4x3w2q1v9c8d&theme=dark&bar_color=1db954&bar_color_background=535353" alt="Spotify Now Playing" width="350">
+    <img src="https://spotify-github-profile.vercel.app/api/playing?user_id=31f5z6b7z2r5y4x3w2q1v9c8d&theme=dark&bar_color=1db954&bar_color_background=535353"       alt="Spotify Now Playing" width="350">
   </a>
 </p>
 
