@@ -1,77 +1,104 @@
-# 👋 E aí, eu sou o Oliver Arthur!
-
-🎓 Estudante de Engenharia de Software  
-📚 Atualmente no **terceiro semestre** da graduação na **UNICEPLAC** 💡 Aprendendo o básico de programação e explorando novas áreas
-
-## 👨‍💻 Sobre mim
-
-Atualmente, estou construindo minha base em desenvolvimento e estudando linguagens como **Java** e **C**, com foco em entender bem conceitos como **programação orientada a objetos**.
-
-Apesar de estar no início da jornada, gosto de entender bem o que estou estudando e prefiro ir no meu ritmo, aprendendo de forma sólida.
-
-Tenho interesse em seguir para a área de **segurança da informação**, ainda explorando as possibilidades e entendendo melhor qual caminho seguir.
-
----
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SainthixOli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SainthixOli&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</p>
-
----
-
-## 🚧 Meus Projetos
-
-Aqui estão alguns dos projetos que estou desenvolvendo ou que já concluí:
-
-### 🛡️ SecureCorp: Simulação de Rede Corporativa Segura
-
-<p align="center">
-  <a href="https://github.com/SainthixOli/secure-corp">
-    <img src="https://github.com/SainthixOli/secure-corp/blob/main/img/SecureCorpLogo.png?raw=true" alt="SecureCorp Logo" width="300px">
-  </a>
-</p>
-
-Uma simulação de rede corporativa segura utilizando **Cisco Packet Tracer**. Este projeto demonstra a implementação de infraestrutura de rede segmentada com VLANs, controle de tráfego com firewall de borda (Cisco ASA), roteamento inter-VLAN e DHCP. Focado na aplicação prática de conceitos de segurança e troubleshooting.
-
-**[Ver Projeto](https://github.com/SainthixOli/secure-corp)**
-
----
-
-## 🧰 Tecnologias que estou estudando
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
-</p>
-
----
-
-## ✨ Minhas Contribuições
-
 <div align="center">
-  <a href="https://github.com/SainthixOli">
-    <img src="https://streak-stats.demolab.com/?user=SainthixOli&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- Header Animado -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Oliver%20Arthur&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlign=50&descAlignY=62" width="100%"/>
+
+  <!-- Trophies (Gamer/Unique Feel) -->
+  <br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SainthixOli&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
   </a>
+  <br>
+
+  <!-- Typing SVG -->
+  <p align="center">
+    <a href="https://github.com/SainthixOli">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5F5F5&center=true&vCenter=true&width=435&lines=Building+Digital+Architectures;Cybersecurity+Enthusiast;Java+%7C+C+%7C+SQL;Always+Consuming+Coffee+%E2%98%95" alt="Typing SVG" />
+    </a>
+  </p>
+
 </div>
 
----
+<br>
 
-## 📫 Contato e o que estou ouvindo
+<!-- Layout em Tabela para "Unicidade" (Lado a Lado) -->
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      
+      ### 👨‍💻 Sobre Mim
+      
+      > "Coder by day, Hacker by night." (Brincadeira... ou não?)
+      
+      Atualmente no **4º Semestre** de Engenharia de Software na **UNICEPLAC**.
+      
+      Apaixonado por entender sistemas complexos, segurança da informação e desenvolvimento de soluções robustas. 
+      
+      - 🔭 Foco: **Backend & Security**
+      - ⚡ Curiosidade: Eu uso Arch Linux (mentira, mas quase).
+    </td>
+    <td width="50%" valign="top" align="center">
+      
+      ### 🎧 Vibe de Hoje
+      
+      <!-- SPOTIFY WIDGET -->
+      <!-- O usuário precisa alterar o 'uid' ou configurar o Vercel app para o seu próprio -->
+      <a href="https://spotify-github-profile.vercel.app/api/view?uid=sainthixoli&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=sainthixoli&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify">
+      </a>
+      
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <strong>E-mail:</strong> oliverarthursouzapinheiro@gmail.com
-  <br><br>
-</p>
+<br>
 
----
-
-> "Iniciando do zero, mas com vontade de aprender e construir coisas reais."
+<!-- Skill Icons e Stats -->
 <div align="center">
-    <img       src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFucnByaHh3NGppazd6OGRyZTM1OWYxMDB6aWl3amcxaGxibTc5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF de programação" width="350">
-  </div>
+  <h3>🛠️ Arsenal Tecnológico</h3>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,git,github,vscode,linux,mysql,postgres,docker,idea&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SainthixOli&show_icons=true&theme=cobalt&bg_color=121212&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SainthixOli&layout=compact&langs_count=7&theme=cobalt&bg_color=121212&hide_border=true"/>
+</div>
+
+<br>
+
+<!-- 3D City Contribution Graph (The "Unique" Factor) -->
+<!-- Nota: Esta imagem será gerada automaticamente pelo GitHub Action `profile-3d.yml` -->
+<div align="center">
+  <h3>🏙️ Minha Metrópole de Códigos (3D)</h3>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+</div>
+
+<br>
+
+<!-- Projects Highlight -->
+## 🌟 Destaque: [Cerne](https://github.com/SainthixOli/cerne)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:33ccff,100:00ff99&text=CERNE&height=150&fontSize=60&fontAlign=50&desc=Web%20Application&descAlign=50&animation=fadeIn" alt="Cerne Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(53, 177, 79, 0.4);">
+</div>
+
+<br>
+
+Aplicação Web inovadora focada em **Inovação** e **Tecnologia**.
+> *Confira o repositório para mais detalhes.*
+
+- **Fullstack Development**
+- **Interface Moderna**
+- **Arquitetura Escalável**
+
+---
+
+<div align="center">
+    <a href="mailto:oliverarthursouzapinheiro@gmail.com">
+        <img src="https://img.shields.io/badge/Contact-Me-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <br><br>
+    <img src="https://media.giphy.com/media/L1R1TVI9svkQQ/giphy.gif" width="80px">
+</div>
