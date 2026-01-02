@@ -3,6 +3,12 @@
   <!-- Header Animado -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Oliver%20Arthur&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlign=50&descAlignY=62" width="100%"/>
 
+  <!-- Trophies (Tentativa com widget externo + Metrics lá embaixo) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SainthixOli&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+  </a>
+  <br>
+
   <!-- Typing SVG -->
   <p align="center">
     <a href="https://github.com/SainthixOli">
@@ -14,25 +20,24 @@
 
 <br>
 
-<!-- Layout em Tabela -->
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <td width="100%" valign="top" align="center">
-      
-      ### 👨‍💻 Sobre Mim
-      
-      > **"Inovando através da complexidade."**
-      
-      Estudante de **Engenharia de Software (4º Semestre)** na UNICEPLAC, focado em criar soluções que impactam.
-      
-      Minha jornada é movida pela curiosidade em **Segurança da Informação** e pela robustez do **Backend**. Não apenas escrevo código; eu construo arquiteturas seguras e eficientes.
-      
-      - �️ **Especialidade**: Desenvolvimento Seguro & Infraestrutura.
-      - 🚀 **Missão**: Transformar problemas complexos em software elegante.
-      - ⚡ **Stack**: Java, C, SQL e uma dose saudável de cafeína.
-    </td>
-  </tr>
-</table>
+## 👨‍💻 Sobre Mim
+
+```bash
+oli@uniceplac:~$ whoami
+> Oliver Arthur
+> Estudante de Engenharia de Software (4º Semestre)
+
+oli@uniceplac:~$ cat skills.txt
+> Backend Development (Java, C)
+> Cybersecurity & Networks
+> Software Architecture
+```
+
+Sou movido pela curiosidade de entender como as coisas funcionam "por baixo do capô". Meu foco é criar arquiteturas robustas e explorar o mundo da segurança da informação.
+
+- 🔭 **Atualmente**: Desenvolvendo plataformas Web modernas e soluções Fullstack.
+- �️ **Objetivo**: Dominar a arte de proteger e escalar sistemas.
+- ⚡ **Curiosidade**: Prefiro terminal do que interface gráfica (as vezes).
 
 <br>
 
@@ -46,8 +51,8 @@
 
 <!-- METRICS (Achievements + IsoCalendar) -->
 <div align="center">
-  <!-- Adicionando ?v=1 para forçar atualização de cache se necessário -->
-  <img src="github-metrics.svg?v=1" width="100%" alt="Metrics" />
+  <!-- Adicionando ?v=2 para forçar atualização de cache -->
+  <img src="github-metrics.svg?v=2" width="85%" alt="Metrics" />
 </div>
 
 <br>
