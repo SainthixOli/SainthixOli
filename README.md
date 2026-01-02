@@ -3,11 +3,9 @@
   <!-- Header Animado -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Oliver%20Arthur&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlign=50&descAlignY=62" width="100%"/>
 
-  <!-- Trophies (Gamer/Unique Feel) -->
+  <!-- Trophies & Stats (Generated locally via Metrics Action) -->
   <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SainthixOli&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-  </a>
+  <img src="github-metrics.svg" width="100%" alt="Metrics" />
   <br>
 
   <!-- Typing SVG -->
@@ -21,14 +19,14 @@
 
 <br>
 
-<!-- Layout em Tabela para "Unicidade" (Lado a Lado) -->
+<!-- Layout em Tabela -->
 <table align="center" width="100%" style="border: none;">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="100%" valign="top" align="center">
       
       ### 👨‍💻 Sobre Mim
       
-      > "Coder by day, Hacker by night." (Brincadeira... ou não?)
+      > "Coder by day, Hacker by night." 
       
       Atualmente no **4º Semestre** de Engenharia de Software na **UNICEPLAC**.
       
@@ -36,17 +34,6 @@
       
       - 🔭 Foco: **Backend & Security**
       - ⚡ Curiosidade: Eu uso Arch Linux (mentira, mas quase).
-    </td>
-    <td width="50%" valign="top" align="center">
-      
-      ### 👾 Geek Joke
-      
-      <!-- JOKES WIDGET -->
-      <!-- Trocando para um que carrega mais rápido -->
-      <a href="https://github.com/readme-jokes/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card">
-      </a>
-      
     </td>
   </tr>
 </table>
