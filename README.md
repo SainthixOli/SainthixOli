@@ -39,12 +39,12 @@
     </td>
     <td width="50%" valign="top" align="center">
       
-      ### 🧠 Daily Logic
+      ### 👾 Geek Joke
       
-      <!-- DEV QUOTES WIDGET -->
-      <!-- Zero setup, always works, changes every refresh -->
-      <a href="https://github.com/shravan20/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&is_shuffled=true" alt="Dev Quotes">
+      <!-- JOKES WIDGET -->
+      <!-- Trocando para um que carrega mais rápido -->
+      <a href="https://github.com/readme-jokes/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card">
       </a>
       
     </td>
