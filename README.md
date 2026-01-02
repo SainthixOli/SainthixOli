@@ -39,12 +39,12 @@
     </td>
     <td width="50%" valign="top" align="center">
       
-      ### 🎧 Vibe de Hoje
+      ### 🧠 Daily Logic
       
-      <!-- SPOTIFY WIDGET -->
-      <!-- O usuário precisa alterar o 'uid' ou configurar o Vercel app para o seu próprio -->
-      <a href="https://spotify-github-profile.vercel.app/api/view?uid=sainthixoli&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=sainthixoli&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify">
+      <!-- DEV QUOTES WIDGET -->
+      <!-- Zero setup, always works, changes every refresh -->
+      <a href="https://github.com/shravan20/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&is_shuffled=true" alt="Dev Quotes">
       </a>
       
     </td>
