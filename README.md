@@ -3,11 +3,6 @@
   <!-- Header Animado -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Oliver%20Arthur&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlign=50&descAlignY=62" width="100%"/>
 
-  <!-- Trophies & Stats (Generated locally via Metrics Action) -->
-  <br>
-  <img src="github-metrics.svg" width="100%" alt="Metrics" />
-  <br>
-
   <!-- Typing SVG -->
   <p align="center">
     <a href="https://github.com/SainthixOli">
@@ -26,21 +21,22 @@
       
       ### 👨‍💻 Sobre Mim
       
-      > "Coder by day, Hacker by night." 
+      > **"Inovando através da complexidade."**
       
-      Atualmente no **4º Semestre** de Engenharia de Software na **UNICEPLAC**.
+      Estudante de **Engenharia de Software (4º Semestre)** na UNICEPLAC, focado em criar soluções que impactam.
       
-      Apaixonado por entender sistemas complexos, segurança da informação e desenvolvimento de soluções robustas. 
+      Minha jornada é movida pela curiosidade em **Segurança da Informação** e pela robustez do **Backend**. Não apenas escrevo código; eu construo arquiteturas seguras e eficientes.
       
-      - 🔭 Foco: **Backend & Security**
-      - ⚡ Curiosidade: Eu uso Arch Linux (mentira, mas quase).
+      - �️ **Especialidade**: Desenvolvimento Seguro & Infraestrutura.
+      - 🚀 **Missão**: Transformar problemas complexos em software elegante.
+      - ⚡ **Stack**: Java, C, SQL e uma dose saudável de cafeína.
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- Skill Icons e Stats -->
+<!-- Skill Icons -->
 <div align="center">
   <h3>🛠️ Arsenal Tecnológico</h3>
   <img src="https://skillicons.dev/icons?i=java,c,cpp,python,git,github,vscode,linux,mysql,postgres,docker,idea&theme=dark" />
@@ -48,15 +44,15 @@
 
 <br>
 
+<!-- METRICS (Achievements + IsoCalendar) -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SainthixOli&show_icons=true&theme=cobalt&bg_color=121212&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SainthixOli&layout=compact&langs_count=7&theme=cobalt&bg_color=121212&hide_border=true"/>
+  <!-- Adicionando ?v=1 para forçar atualização de cache se necessário -->
+  <img src="github-metrics.svg?v=1" width="100%" alt="Metrics" />
 </div>
 
 <br>
 
-<!-- 3D City Contribution Graph (The "Unique" Factor) -->
-<!-- Nota: Esta imagem será gerada automaticamente pelo GitHub Action `profile-3d.yml` -->
+<!-- 3D City Contribution Graph -->
 <div align="center">
   <h3>🏙️ Minha Metrópole de Códigos (3D)</h3>
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
@@ -65,20 +61,30 @@
 <br>
 
 <!-- Projects Highlight -->
-## 🌟 Destaque: [Cerne](https://github.com/SainthixOli/cerne)
+## 🌟 Projetos em Destaque
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:33ccff,100:00ff99&text=CERNE&height=150&fontSize=60&fontAlign=50&desc=Web%20Application&descAlign=50&animation=fadeIn" alt="Cerne Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(53, 177, 79, 0.4);">
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+        <h3>🚀 <a href="https://github.com/SainthixOli/cerne">Cerne</a></h3>
+        <a href="https://github.com/SainthixOli/cerne">
+            <img src="https://opengraph.githubassets.com/1/SainthixOli/cerne" alt="Cerne Preview" width="100%" style="border-radius: 10px;">
+        </a>
+        <br><br>
+        Aplicação Web focada em <strong>Inovação</strong>.
+    </td>
+    <td width="50%" align="center">
+        <h3>📦 <a href="https://github.com/SainthixOli/modula">Modula</a></h3>
+        <a href="https://github.com/SainthixOli/modula">
+            <img src="https://opengraph.githubassets.com/1/SainthixOli/modula" alt="Modula Preview" width="100%" style="border-radius: 10px;">
+        </a>
+        <br><br>
+        Sistema modular e escalável.
+    </td>
+  </tr>
+</table>
 
 <br>
-
-Aplicação Web inovadora focada em **Inovação** e **Tecnologia**.
-> *Confira o repositório para mais detalhes.*
-
-- **Fullstack Development**
-- **Interface Moderna**
-- **Arquitetura Escalável**
 
 ---
 
@@ -87,5 +93,6 @@ Aplicação Web inovadora focada em **Inovação** e **Tecnologia**.
         <img src="https://img.shields.io/badge/Contact-Me-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <br><br>
-    <img src="https://media.giphy.com/media/L1R1TVI9svkQQ/giphy.gif" width="80px">
+    <!-- New Cool GIF -->
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150px">
 </div>
